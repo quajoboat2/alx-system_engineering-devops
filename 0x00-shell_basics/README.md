@@ -1,1 +1,1 @@
-a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0
+a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory
