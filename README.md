@@ -1,1 +1,1 @@
-current working directory
+ a script that creates an alias
